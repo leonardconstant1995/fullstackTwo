@@ -1,0 +1,20 @@
+body{
+  padding-top:80px;
+  word-wrap:break-word;
+  background-image: url(./img/back.jpg);
+  color: brown;
+  font-family: "mukta", Arial, Helvetica, sans-serif, 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+img{
+  height: 200px;
+}
+h1{
+  font-size: 3em;
+  font-weight: 700;
+}
+span, p{
+  font-size: 1.5em;
+}
+h3{
+  font-size: 2em;
+}
