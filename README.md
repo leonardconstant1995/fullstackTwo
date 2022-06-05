@@ -12,6 +12,6 @@ Using the Ejs. to log and send things to the routes. The routes then send whatev
 
 ## Optimizations
 
-Thought of being able to delete things by individual lines. It was a bit confusing though, so kind of dropped the idea.
+Thought of being able to delete things by individual lines. It was a bit confusing though, so kind of dropped the idea. I do feel like that idea would make the story board a lot more usable and cool to mess with!
 
 
