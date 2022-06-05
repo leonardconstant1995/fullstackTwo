@@ -1,13 +1,17 @@
-## Installation
+# Story Board
+A story board app where users can login in and add a line to the story.
 
-1. Clone repo
-2. run `npm install`
 
-## Usage
 
-1. run `node server.js`
-2. Navigate to `localhost:8080`
 
-## Credit
+## How It's Made:
 
-Modified from Scotch.io's auth tutorial
+**Tech used:** HTML5, CSS3, JavaScript, Node
+
+Using the Ejs. to log and send things to the routes. The routes then send whatever was inputted and sends it to the database to store. It also shows in the ejs.
+
+## Optimizations
+
+Thought of being able to delete things by individual lines. It was a bit confusing though, so kind of dropped the idea.
+
+
